@@ -118,8 +118,14 @@ section.works ul li p{
 footer{
     text-align: center;
     padding: 15px 0 15px 0;
+     
 }
 footer nav a {
     color: #21243D;
     font-size: 2rem;
+    padding: 0 10px 0 10px;
+    
+}
+footer p{
+    margin: 15px 0 15px 0;
 }
